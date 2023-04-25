@@ -81,7 +81,7 @@ void array_inflate(Array *a, int more_size) {
 
 ## 链表Linked List
 
-![image-20230418141334007](https://github.com/Hhankyangg/WengKai_C_Programming/blob/main/notes/%E5%8F%AF%E5%8F%98%E6%95%B0%E7%BB%84Resizable%20Array%20&%20%E9%93%BE%E8%A1%A8Linked%20List.assets/image-20230418141334007.png?raw=true)
+![LinkedList](.\ResizableArray&LinkedList.png)
 
 ### 头文件的编写
 

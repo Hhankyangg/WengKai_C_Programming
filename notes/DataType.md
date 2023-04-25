@@ -395,7 +395,7 @@ int main() {
 }
 ````
 
-![image-20230405155854739](https://github.com/Hhankyangg/WengKai_C_Programming/blob/main/notes/%E7%BB%93%E6%9E%84%E7%B1%BB%E5%9E%8B.assets/image-20230405155854739.png?raw=true)
+![DataType](./DataType.png)
 
 存储方式如上, 由于 x86 小端存储, 运行结果为: 
 
